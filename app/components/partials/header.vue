@@ -23,7 +23,6 @@
         </li>
       </ul>
     </nav>
-    <meta name="google-site-verification" content="wG_slVb6HJb9MjU-VEAanEEmogZ4ODI3OVE7DPgrYVY"/>
   </header>
 </template>
 
