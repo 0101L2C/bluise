@@ -1,6 +1,5 @@
 <template>
   <main :class="[$route.name]" class="main px-4 md:px-0">
-    <meta name="google-site-verification" content="wG_slVb6HJb9MjU-VEAanEEmogZ4ODI3OVE7DPgrYVY" />
     <div class="container mx-auto">
       <site-header />
       <nuxt class="nuxt" />
