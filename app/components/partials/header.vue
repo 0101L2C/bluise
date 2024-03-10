@@ -1,5 +1,6 @@
 <template>
   <header class="flex items-center py-4 md:py-8">
+    <meta name="google-site-verification"content="google-site-verification=w32wrdGzs-g4xb73DQYljzOoJRHkgxk840jJdnO9lm0"/>
     <div class="header__logo">
       <nuxt-link to="/">
         <img :src="logo" alt="Logo" />
