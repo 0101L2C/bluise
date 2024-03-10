@@ -5,7 +5,7 @@
 
 "betaa"
   
-"<a href="https://skyedifice.com/painting/house-painters-costa-mesa/">Costa Mesa, CA</a>"
+<nuxt-link to="/blog" class="block font-medium px-4 py-1 md:p-2 lg:px-4"> Blog </nuxt-link>
 }
 
 
